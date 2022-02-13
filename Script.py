@@ -4,7 +4,7 @@ class script(object):
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
-    ABOUT_TXT = """✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TEAM_KERALA>🚬𝗥𝗢𝗖𝗞𝗬 𝗕𝗛𝗔𝗜 ᵏᵍᶠ</a>
+    ABOUT_TXT = """✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <@mr_bean_12>MR BEAN</a>
 ✮ 𝙲𝙾𝙳𝙸𝙽𝙶: <a href=www.Pyrogram.com/>𝙿𝚈𝚃𝙷𝙾𝙽 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <a href=ww.W3PythonSchool.com/>𝙿𝚈𝚃𝙷𝙾𝙽</a>
 ✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=www.MongoDb.com/>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
@@ -12,7 +12,7 @@ class script(object):
 ✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.2 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/TEAM-FLUFFY/FluffyV1"> 𝚂𝙴𝙳 𝙻𝙸𝙵𝙴💘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/movie_pol">⚜️𝘚𝘰𝘶𝘳𝘤𝘦⚜️</a>
 
 𝙲𝚁𝙴𝙰𝚃𝙾𝚁:
 <a href="https://t.me/albintko"> 𝙰𝙻𝙱𝙸𝙽  </a>"""
