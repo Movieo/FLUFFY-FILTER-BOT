@@ -37,13 +37,13 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('🎭pol🎭', callback_data='help'),
-            InlineKeyboardButton('🎗️𝖠𝖡𝖮𝖴𝖳🎗️', callback_data='about'),
+            InlineKeyboardButton('❤️𝐅𝐈𝐋𝐓𝐄𝐑❤️', callback_data='help'),
+            InlineKeyboardButton('❤️𝐀𝐁𝐎𝐔𝐓❤️', callback_data='about'),
             ],[
-            InlineKeyboardButton('💡𝖦𝖱𝖮𝖴𝖯💡', url='https://t.me/ADHOLOKAMHD'),
-            InlineKeyboardButton('💡𝖢𝖧𝖠𝖭𝖭𝖤𝖫💡', url='https://t.me/ADHOLOKAMHDCHANNEL'),
+            InlineKeyboardButton('💫𝐆𝐑𝐎𝐔𝐏💫', url='https://t.me/mallu_movie_search'),
+            InlineKeyboardButton('💫𝐂𝐇𝐀𝐍𝐍𝐄𝐋💫', url='https://t.me/mallmovieup'),
             ],[
-            InlineKeyboardButton('✈️𝖠𝖣𝖣 𝖬𝖤 𝖳𝖮 𝖠 𝖢𝖧𝖠𝖳 𝖦𝖱𝖮𝖴𝖯✈️', url='http://t.me/Rocky_Bhaikgfbot?startgroup=true')
+            InlineKeyboardButton('🌟𝙒𝙀𝘽 𝙎𝙀𝙍𝙄𝙀𝙎🌟', url='https://t.me/malluwebseriesd')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
